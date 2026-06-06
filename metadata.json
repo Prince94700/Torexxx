@@ -1,0 +1,6 @@
+{
+  "name": "TOREX",
+  "description": "AI-Integrated Governance & Infrastructure Execution for India's national development pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
